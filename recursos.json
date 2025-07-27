@@ -1,0 +1,23 @@
+[
+  {
+    "tipo": "Guía",
+    "titulo": "Guía para padres",
+    "descripcion": "Primeros pasos después del diagnóstico. Qué esperar, a dónde ir, cómo procesar la información.",
+    "categoria": "Diagnóstico",
+    "link_texto": "Ver recurso"
+  },
+  {
+    "tipo": "Directorio",
+    "titulo": "Red de profesionales recomendados",
+    "descripcion": "Especialistas en desarrollo, salud mental e inclusión, recomendados por familias por su calidad humana y compromiso.",
+    "categoria": "Profesionales",
+    "link_texto": "Ver recurso"
+  },
+  {
+    "tipo": "Lectura",
+    "titulo": "Bibliografía recomendada",
+    "descripcion": "Selección de lecturas que me acompañaron en este camino, la maternidad y ser mujer.",
+    "categoria": "Bibliografía",
+    "link_texto": "Ver recurso"
+  }
+]
