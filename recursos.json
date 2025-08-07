@@ -5,7 +5,7 @@
     "descripcion": "Primeros pasos después del diagnóstico. Qué esperar, a dónde ir, cómo procesar la información.",
     "categoria": "Diagnósticos",
     "link_texto": "Ver recurso",
-    "link":"https://www.google.com.ar"
+    "link": "https://childmind.org/es/guia/guia-para-padres-sobre-el-autismo/"
   },
   {
     "tipo": "Directorio",
@@ -13,7 +13,7 @@
     "descripcion": "Especialistas en desarrollo, salud mental e inclusión, recomendados por familias por su calidad humana y compromiso.",
     "categoria": "Profesionales",
     "link_texto": "Ver recurso",
-    "link":"https://www.google.com.ar/test"
+    "link": "https://www.google.com.ar/test"
   },
   {
     "tipo": "Lectura",
@@ -21,6 +21,6 @@
     "descripcion": "Selección de lecturas que me acompañaron en este camino, la maternidad y ser mujer.",
     "categoria": "Bibliografía",
     "link_texto": "Ver recurso",
-    "link":"https://www.google.com.ar"
+    "link": "https://www.google.com.ar"
   }
 ]
