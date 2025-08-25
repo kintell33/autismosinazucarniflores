@@ -49,6 +49,14 @@
    },
   { 
     "fecha": "2025-08-25",
+    "titulo": "El lado B",
+    "descripcion": "Lo que nadie ve",
+    "url_imagen": "https://raw.githubusercontent.com/kintell33/autismosinazucarniflores/refs/heads/main/images/ladob.jpeg",
+    "tags": ["comunicación", "lenguaje", "autismo"],
+    "post_link": "https://www.instagram.com/p/DJb732jNiou/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D"
+   },
+  { 
+    "fecha": "2025-08-25",
     "titulo": "Tu hijo te mira",
     "descripcion": "Cuando miras para otro lado",
     "url_imagen": "https://raw.githubusercontent.com/kintell33/autismosinazucarniflores/refs/heads/main/images/tuhijotemira.jpeg",
